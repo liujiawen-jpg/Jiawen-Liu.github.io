@@ -3,6 +3,6 @@
 I am currently pursuing my Master's degree at the School of Computer Science and Engineering, South China University of Technology (2023-2026).
 
 #### Email  
-<code>202321044682mail.scut.edu.cn</code>  
+<code>202321044682@mail.scut.edu.cn</code>  
 
 
